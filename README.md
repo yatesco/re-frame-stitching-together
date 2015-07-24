@@ -1,6 +1,6 @@
 # Stitching together
 
-A demonstration of different ways of stitching together data in a re-frame
+A demonstration of different ways of stitching together data in a [re-frame](https://github.com/Day8/re-frame)
 application.
 
 ## Domain
